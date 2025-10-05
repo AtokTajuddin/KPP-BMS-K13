@@ -21,10 +21,14 @@
 | Muhammad Ardiansyah Tri Wibowo | 5027241091   |
 | Mochammad Atha Tajuddin | 5027241093   |
 
+
+| Jobdesc | Nama       |
 |-------|-----------|
-| Web Development     | Atha,Rian,Yudi,Daffan |
-| Web Design(Styling) | Ardiansyah Tri Wibowo & Atha |
-| UI & UX             | Nadia Kirana & Ardiansyah Tri Wibowo |
+|  Web Development     | Atha,Rian,Yudi,Daffan  |
+|  Web Design(Styling   |Ardiansyah Tri Wibowo & Atha |
+|  UI & UX    | Nadia Kirana & Ardiansyah Tri Wibowo   |
+
+
 
 Figma    : https://www.figma.com/design/smWCPEs3Bu5damukrOxxfe/UI-BMS-K13?node-id=0-1&p=f
 
